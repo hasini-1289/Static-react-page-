@@ -1,19 +1,124 @@
-# Getting Started
-Install the dependencies and run the project
+# Static React Page Project
+
+A simple and responsive static React webpage built while learning React fundamentals.  
+This project demonstrates component-based architecture, JSX, styling, and basic React project structure using Vite.
+
+---
+
+## 🚀 screenshots 
+<img width="1919" height="1051" alt="image" src="https://github.com/user-attachments/assets/6a084c64-b7be-4be5-9d9f-7d1055dab925" />
+
+
+---
+
+## 📌 Features
+
+- Built with React + Vite
+- Component-based structure
+- Responsive dark-themed UI
+- Custom React branding section
+- Styled using CSS
+- Beginner-friendly project structure
+
+---
+
+## 🛠️ Technologies Used
+
+- React
+- JavaScript
+- JSX
+- CSS
+- Vite
+
+---
+
+## 📂 Project Structure
+
+```bash
+Static-react-page-project/
+│
+├── components/
+│   ├── Main.jsx
+│   └── Navbar.jsx
+│
+├── App.jsx
+├── index.css
+├── index.html
+├── index.jsx
+├── vite.config.js
+├── package.json
+└── README.md
 ```
+
+---
+
+## ⚙️ Installation & Setup
+
+Clone the repository:
+
+```bash
+git clone https://github.com/hasini-1289/Static-react-page-.git/
+```
+
+Move into the project folder:
+
+```bash
+cd your-repo-name
+```
+
+Install dependencies:
+
+```bash
 npm install
-npm start
 ```
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+Run the development server:
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Fullstack Developer Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+```bash
+npm run dev
+```
 
-- [Our courses](https://scrimba.com/courses)
-- [The Frontend Career Path](https://scrimba.com/fullstack-path-c0fullstack)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+---
 
-Happy Coding!
+## 📸 Preview
+
+This project displays:
+- A custom React navbar
+- React facts section
+- Styled background graphics
+- Clean responsive layout
+
+---
+
+## 🎯 Learning Goals
+
+This project helped in understanding:
+
+- React components
+- JSX syntax
+- Props and structure
+- CSS styling in React
+- Vite project setup
+- Project deployment with Netlify
+
+---
+
+## 🌐 Deployment
+
+This project is deployed using Netlify.
+
+---
+
+## 📖 Future Improvements
+
+- Add responsive mobile design
+- Add animations
+- Add React Router
+- Improve UI styling
+- Convert into multi-page application
+
+---
+
+## 👩‍💻 Author
+
+Made with ❤️ by Hasini
